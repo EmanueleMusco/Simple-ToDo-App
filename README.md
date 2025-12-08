@@ -52,7 +52,7 @@
 ## 🚀 Generare l’APK
 
 Per creare l’APK nel terminale scrivere:
-- flutter build apk
+- flutter build apk <br>
 Il file verrà generato in:
 - build/app/outputs/flutter-apk/app-release.apk
 
@@ -108,7 +108,7 @@ This project is ideal for practicing Flutter and understanding state management 
 ## 🚀 Build the APK
 
 To create the APK, run in the terminal:
-- flutter build apk
+- flutter build apk<br>
 The apk will be located in:
 - build/app/outputs/flutter-apk/app-release.apk
 
