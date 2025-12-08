@@ -19,8 +19,8 @@
 
 ## 🖼️ Screenshot
 
-![homepage](https://github.com/user-attachments/assets/e4ffe199-bf49-472d-bc73-ad632ea6d2a4)
-![add-todo](https://github.com/user-attachments/assets/306d518c-5456-433f-ba43-4d1e6ec4b2fe)
+<img src="https://github.com/user-attachments/assets/e4ffe199-bf49-472d-bc73-ad632ea6d2a4" width="400px">
+<img src="https://github.com/user-attachments/assets/306d518c-5456-433f-ba43-4d1e6ec4b2fe" width="400px">
 
 
 
@@ -48,19 +48,6 @@
 
 ---
 
-## 📂 Struttura del progetto
-lib/
-│
-├── model/
-│ └── todo.dart
-│
-├── pages/
-│ └── home_page.dart
-│
-└── main.dart
-
-
----
 
 ## 🚀 Generare l’APK
 
@@ -90,8 +77,8 @@ This project is ideal for practicing Flutter and understanding state management 
 
 ## 🖼️ Screenshots
 
-![homepage](https://github.com/user-attachments/assets/e4ffe199-bf49-472d-bc73-ad632ea6d2a4)
-![add-todo](https://github.com/user-attachments/assets/306d518c-5456-433f-ba43-4d1e6ec4b2fe)
+<img src="https://github.com/user-attachments/assets/e4ffe199-bf49-472d-bc73-ad632ea6d2a4" width="400px">
+<img src="https://github.com/user-attachments/assets/306d518c-5456-433f-ba43-4d1e6ec4b2fe" width="400px">
 
 ---
 
@@ -117,19 +104,6 @@ This project is ideal for practicing Flutter and understanding state management 
 
 ---
 
-## 📂 Project Structure
-lib/
-│
-├── model/
-│ └── todo.dart
-│
-├── pages/
-│ └── home_page.dart
-│
-└── main.dart
-
-
----
 
 ## 🚀 Build the APK
 
