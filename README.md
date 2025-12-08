@@ -17,14 +17,6 @@
 
 ---
 
-## 🖼️ Screenshot
-
-<img src="https://github.com/user-attachments/assets/e4ffe199-bf49-472d-bc73-ad632ea6d2a4" width="400px">
-<img src="https://github.com/user-attachments/assets/306d518c-5456-433f-ba43-4d1e6ec4b2fe" width="400px">
-
-
-
----
 
 ## 📥 Installazione (APK)
 
@@ -75,12 +67,6 @@ This project is ideal for practicing Flutter and understanding state management 
 
 ---
 
-## 🖼️ Screenshots
-
-<img src="https://github.com/user-attachments/assets/e4ffe199-bf49-472d-bc73-ad632ea6d2a4" width="400px">
-<img src="https://github.com/user-attachments/assets/306d518c-5456-433f-ba43-4d1e6ec4b2fe" width="400px">
-
----
 
 ## 📥 Installation (APK)
 
@@ -111,4 +97,13 @@ To create the APK, run in the terminal:
 - flutter build apk<br>
 The apk will be located in:
 - build/app/outputs/flutter-apk/app-release.apk
+
+
+
+## 🖼️ Screenshots
+
+<img src="https://github.com/user-attachments/assets/e4ffe199-bf49-472d-bc73-ad632ea6d2a4" width="400px">
+<img src="https://github.com/user-attachments/assets/306d518c-5456-433f-ba43-4d1e6ec4b2fe" width="400px">
+
+---
 
