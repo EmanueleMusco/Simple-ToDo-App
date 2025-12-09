@@ -1,4 +1,4 @@
-# 🇮🇹 Todo Semplice / 🇬🇧 Simple Todo App
+# Todo Semplice / Simple Todo App
 
 ---
 
